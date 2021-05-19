@@ -4,6 +4,8 @@
 >
 > ———— 卢梭《社会契约论》
 
+[![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fguanintg)](https://telegram.dog/guanintg)
+
 ## 前言
 
 管学是一门后现代主义学问。主要讨论了"**管与不管**"相关的问题。
@@ -17,7 +19,7 @@
 
 ## 参考
 
-<div id="ref-1"></div> 中国人是要管的: "成龙刺痛了怕“管”的中国人？", CCTV, <http://www.cctv.com/fuxingbbs/special/mryw/04/22/index.shtml>
+<div id="ref-1"></div> 中国人是要管的: "成龙刺痛了怕“管”的中国人？", CCTV, <a href="http://www.cctv.com/fuxingbbs/special/mryw/04/22/index.shtml">http://www.cctv.com/fuxingbbs/special/mryw/04/22/index.shtml</a>
 
 ---
 
